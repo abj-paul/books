@@ -1,2 +1,0 @@
-* About
-All academic books I read are stored here. As I read them in home and in university, version controlling is needed. Thats why this repository was formed.

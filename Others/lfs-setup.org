@@ -1,0 +1,15 @@
+* How to set-up git-lfs
+
+LFS means large file storage. Github does not allow to upload big files so to have big files in our repository, we need git-lfs. To set it up,
+
+
+1. Goto packagecloud.io/github/git-lfs/install and follow the commands.
+2. Now install git-lfs using "sudo apt install git-lfs"
+3. Now initialize git-lfs for your account using "git lfs install"
+4. Now to track big files in some repository using LFS, go to that repository and type 
+	git lfs track '*pdf' 
+5. Then normally use git,
+	git add --all
+	git commit -m "testing lfs"
+	git push
+And you are done!
