@@ -1,0 +1,2 @@
+https://www.oracle.com/in/linux/technologies/articles/xe-on-kubuntu.html
+https://stackoverflow.com/questions/68992799/warning-apt-key-is-deprecated-manage-keyring-files-in-trusted-gpg-d-instead
