@@ -1,2 +1,10 @@
 * About
 All academic books I read are stored here. As I read them in home and in university, version controlling is needed. Thats why this repository was formed.
+* Syntax
+I follow this scheme from 15th October, 22.
+
+Red = definitions
+Black = Read once
+Green = Read many times, important
+Orange = Keyword
+Empty Black Box = Interesting to read but not important
